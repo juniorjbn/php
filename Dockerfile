@@ -61,7 +61,7 @@ ADD conf/php.ini /usr/local/etc/php/conf.d/php.ini
 # Supervisor Config
 ADD conf/supervisord.conf /etc/supervisord.conf
 
-# Start Supervisord
+## Start Supervisord
 ADD scripts/start.sh /start.sh
 RUN chmod 755 /start.sh
 RUN chown -Rf www-data.www-data /usr/share/nginx/html/
