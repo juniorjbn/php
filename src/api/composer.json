@@ -1,0 +1,10 @@
+{
+    "name": "root/api",
+    "authors": [
+        {
+            "name": "leabdalla",
+            "email": "leandro.abdalla@gmail.com"
+        }
+    ],
+    "require": {}
+}
