@@ -1,4 +1,3 @@
-<a href='https://imagelayers.io/?images=juniorjbn/php:latest' title='Get your own badge on imagelayers.io'><img src='https://imagelayers.io/badge/juniorjbn/php:latest.svg'></a>
+# PHP
 
-# php
-php testing repo
+A forked repo from oficial PHP repo, that I make some changes to my environment.
